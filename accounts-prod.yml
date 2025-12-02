@@ -2,7 +2,7 @@ accounts:
   message: "This is the contact production person information"
   contactDetails:
     name: "Nitin vijay"
-    email: "nitinvijay@gmail.com"
+    email: "{cipher}dcb119895f2462052c8b56907173c26fe66d1ce2cc6fd416a2a56e3574c3fdeb73d61f82e62e3e98e2d80ae5ad8f61fe"
   onCallSupport:
     - (333)333
     - (555)555
